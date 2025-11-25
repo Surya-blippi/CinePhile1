@@ -1,0 +1,5 @@
+{
+  "name": "CineStar AI Studio",
+  "description": "Transform yourself into a movie star. Select a cinematic style, upload your photo, and let Gemini 2.5 Flash re-imagine you on the big screen.",
+  "requestFramePermissions": []
+}
