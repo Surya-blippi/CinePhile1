@@ -15,7 +15,7 @@ import { HistoryGallery } from './components/HistoryGallery';
 // CONFIGURATION
 // ------------------------------------------------------------------
 // REPLACE THIS WITH YOUR ACTUAL RAZORPAY KEY ID
-const RAZORPAY_KEY_ID = "rzp_test_REn9qgtg9VAbZX";
+const RAZORPAY_KEY_ID = "rzp_live_r61z3m38RzvGJu";
 // ------------------------------------------------------------------
 
 declare global {
